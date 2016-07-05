@@ -1,4 +1,0 @@
-2015-09-29 23:23:29		Plugins loaded: alias, charset, exec, fifo, guile, irc, logger, lua, perl, python, relay, ruby, script, trigger, xfer
-2015-09-29 23:23:34	=!=	irc: unable to add temporary server "irc.freenode.net" because the addition of temporary servers with command /connect is currently disabled
-2015-09-29 23:23:34	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
-2015-09-29 23:23:45		fifo: pipe closed
